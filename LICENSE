@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<<< HEAD:LICENSE
 Copyright (c) 2026 Kunwar Anmol Singh
+========
+Copyright (c) 2024 Madeline Gurriarán
+>>>>>>>> b72ad38 (Initial commit):client/node_modules/tinyglobby/LICENSE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
